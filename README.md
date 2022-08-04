@@ -1,5 +1,5 @@
 # Sorting Visualization
-live Demo - https://shivamdhiraj.github.io/sorting-visualizer/ 
+live Demo - https://kshitiz2000.github.io/Sorting-Visualizer/ 
 
 ### This is a simple visualization project made using javascript 
 - Bubble Sort 
